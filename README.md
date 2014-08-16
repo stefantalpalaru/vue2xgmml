@@ -10,7 +10,7 @@ VUE to XGMML converter, mainly used for exporting graphs from [Vue][1] to [Cytos
 
 ##requirements
 
-- [networkx][3]
+- [NetworkX][3]
 - PIL or [Pillow][4]
 
 ##credits
