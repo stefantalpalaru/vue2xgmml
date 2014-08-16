@@ -1,6 +1,6 @@
 ##description
 
-VUE to XGMML converter, mainly used for exporting graphs from [Vue][1] to [Cytoscape 3][2].
+VUE to XGMML converter, mainly used for exporting graphs from [VUE][1] to [Cytoscape 3][2].
 
 ##usage
 
