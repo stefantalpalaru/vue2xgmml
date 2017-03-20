@@ -1,21 +1,21 @@
-##description
+## description
 
 VUE to XGMML converter, mainly used for exporting graphs from [VUE][1] to [Cytoscape 3][2].
 
-##usage
+## usage
 
 ```sh
 ./vue2xgmml.py input.vue output.xgmml
 ```
 
-##requirements
+## requirements
 
 - [NetworkX][3]
 - PIL or [Pillow][4]
 
-##credits
+## credits
 
-- author: Stefan Talpalaru <stefantalpalaru@yahoo.com>
+- author: Ștefan Talpalaru <stefantalpalaru@yahoo.com>
 
 - homepage: https://github.com/stefantalpalaru/vue2xgmml
 
